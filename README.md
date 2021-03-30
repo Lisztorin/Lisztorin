@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Lisztorin
-- 👀 I’m interested in linguistics
-- 🌱 I’m currently learning R language
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me to be a more mediocre unicorn
+- 👀 I’m interested in linguistics.
+- 🌱 I’m currently learning R language.
+- 💞️ I’m looking to collaborate on nothing.
+- 📫 How to reach me to be a more mediocre unicorn.
 
 <!---
 Lisztorin/Lisztorin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
